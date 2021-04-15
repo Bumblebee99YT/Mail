@@ -19,6 +19,7 @@
     - Install nodemon if you want
 2. Edit `index.js` and where it clearly says get your own token, put your token... lol
 3. Go to `Client.js` and edit the two strings that have random numbers. Change `this.role` to the support role id and the `this.category` to the category you want the tickets to be in.
-4. type in console `node .` or if you installed `nodemon`, type `npx nodemon`
+4. Make a channel on discord called `modmail`, this will be where the transcript will be posted and where the modmails will be logged.
+5. type in console `node .` or if you installed `nodemon`, type `npx nodemon`
 
 ## That should be all, bye
