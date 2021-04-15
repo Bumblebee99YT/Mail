@@ -1,2 +1,2 @@
 # Mail
-Random modmail bot i decided to make
+Random modmail bot i decided to make **discord.js**
